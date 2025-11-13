@@ -2,7 +2,7 @@
 
 Custom Lovelace card for WebRTC two-way audio with Hikvision doorbells.
 
-![Hikvision Doorbell Card](@hikvision-doorbell-card/card-screenshot.png)
+![Hikvision Doorbell Card](https://github.com/acardace/hikvision-doorbell-card/blob/main/card-screenshot.png)
 
 ## Features
 
